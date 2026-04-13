@@ -1,0 +1,43 @@
+name: Scheduled test PR
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+
+jobs:
+  create-pr:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate random name and branch
+        id: vars
+        run: |
+          NAMES=("Alice Chen" "Bob Mensah" "Carlos Diaz" "Dana Osei" \
+                 "Eve Müller" "Frank Ito" "Grace Nkosi" "Henry Park" \
+                 "Isla Ahmed" "James Kofi" "Kemi Adeyemi" "Luca Rossi")
+          RANDOM_NAME="${NAMES[$RANDOM % ${#NAMES[@]}]}"
+          BRANCH="auto/test-$(date +%s)"
+          echo "name=$RANDOM_NAME" >> $GITHUB_OUTPUT
+          echo "branch=$BRANCH" >> $GITHUB_OUTPUT
+      - name: Create branch and commit
+        run: |
+          git config user.name "workshop-bot"
+          git config user.email "bot@workshop.local"
+          git checkout -b "${{ steps.vars.outputs.branch }}"
+          echo "- ${{ steps.vars.outputs.name }} ($(date -u '+%Y-%m-%d %H:%M UTC'))" >> test-log.md
+          git add test-log.md
+          git commit -m "test: add ${{ steps.vars.outputs.name }}"
+          git push origin "${{ steps.vars.outputs.branch }}"
+      - name: Open PR
+        run: |
+          gh pr create \
+            --title "chore: add ${{ steps.vars.outputs.name }} to test log" \
+            --body "Automated test PR — triggers the workshop webhook." \
+            --base main \
+            --head "${{ steps.vars.outputs.branch }}"
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
