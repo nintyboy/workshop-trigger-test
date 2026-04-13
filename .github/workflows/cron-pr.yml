@@ -32,12 +32,13 @@ jobs:
           git add test-log.md
           git commit -m "test: add ${{ steps.vars.outputs.name }}"
           git push origin "${{ steps.vars.outputs.branch }}"
-      - name: Open PR
+      - name: Open and merge PR
         run: |
           gh pr create \
             --title "chore: add ${{ steps.vars.outputs.name }} to test log" \
             --body "Automated test PR — triggers the workshop webhook." \
             --base main \
             --head "${{ steps.vars.outputs.branch }}"
+          gh pr merge "${{ steps.vars.outputs.branch }}" --merge --admin
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
