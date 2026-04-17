@@ -168,3 +168,4 @@ Add your name and a note below to trigger the workflow.
 - Eve Müller (2026-04-17 22:15 UTC)
 - Dana Osei (2026-04-17 22:35 UTC)
 - Kemi Adeyemi (2026-04-17 22:59 UTC)
+- Luca Rossi (2026-04-17 23:21 UTC)
