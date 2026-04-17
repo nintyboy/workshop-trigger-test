@@ -146,3 +146,4 @@ Add your name and a note below to trigger the workflow.
 - Henry Park (2026-04-17 12:00 UTC)
 - Isla Ahmed (2026-04-17 12:35 UTC)
 - Kemi Adeyemi (2026-04-17 13:05 UTC)
+- Luca Rossi (2026-04-17 13:48 UTC)
