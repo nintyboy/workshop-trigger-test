@@ -203,3 +203,4 @@ Add your name and a note below to trigger the workflow.
 - Grace Nkosi (2026-04-18 15:18 UTC)
 - Eve Müller (2026-04-18 15:38 UTC)
 - Henry Park (2026-04-18 15:56 UTC)
+- Luca Rossi (2026-04-18 16:18 UTC)
