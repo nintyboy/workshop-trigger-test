@@ -349,3 +349,4 @@ Add your name and a note below to trigger the workflow.
 - Isla Ahmed (2026-04-21 19:06 UTC)
 - Alice Chen (2026-04-21 19:40 UTC)
 - Dana Osei (2026-04-21 20:10 UTC)
+- Luca Rossi (2026-04-21 20:33 UTC)
