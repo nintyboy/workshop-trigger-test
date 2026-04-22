@@ -377,3 +377,4 @@ Add your name and a note below to trigger the workflow.
 - Dana Osei (2026-04-22 11:40 UTC)
 - Kemi Adeyemi (2026-04-22 12:07 UTC)
 - Grace Nkosi (2026-04-22 12:38 UTC)
+- Luca Rossi (2026-04-22 13:10 UTC)
