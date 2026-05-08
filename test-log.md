@@ -987,3 +987,4 @@ Add your name and a note below to trigger the workflow.
 - Frank Ito (2026-05-08 11:18 UTC)
 - Isla Ahmed (2026-05-08 11:53 UTC)
 - Dana Osei (2026-05-08 12:32 UTC)
+- Luca Rossi (2026-05-08 13:03 UTC)
