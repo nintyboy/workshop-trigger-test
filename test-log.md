@@ -1076,3 +1076,4 @@ Add your name and a note below to trigger the workflow.
 - Frank Ito (2026-05-10 15:35 UTC)
 - Frank Ito (2026-05-10 16:01 UTC)
 - Isla Ahmed (2026-05-10 16:28 UTC)
+- Luca Rossi (2026-05-10 16:54 UTC)
