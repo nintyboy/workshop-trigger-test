@@ -1259,3 +1259,4 @@ Add your name and a note below to trigger the workflow.
 - James Kofi (2026-05-16 14:49 UTC)
 - Henry Park (2026-05-16 15:17 UTC)
 - Kemi Adeyemi (2026-05-16 15:42 UTC)
+- Luca Rossi (2026-05-16 16:08 UTC)
