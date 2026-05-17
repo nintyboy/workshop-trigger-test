@@ -1303,3 +1303,4 @@ Add your name and a note below to trigger the workflow.
 - Alice Chen (2026-05-17 16:38 UTC)
 - Eve Müller (2026-05-17 17:07 UTC)
 - Dana Osei (2026-05-17 17:34 UTC)
+- Luca Rossi (2026-05-17 18:02 UTC)
