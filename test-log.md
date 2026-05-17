@@ -1296,3 +1296,4 @@ Add your name and a note below to trigger the workflow.
 - Eve Müller (2026-05-17 13:07 UTC)
 - Eve Müller (2026-05-17 13:50 UTC)
 - Grace Nkosi (2026-05-17 14:26 UTC)
+- Luca Rossi (2026-05-17 14:52 UTC)
