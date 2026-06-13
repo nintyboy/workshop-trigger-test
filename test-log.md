@@ -1983,3 +1983,4 @@ Add your name and a note below to trigger the workflow.
 - James Kofi (2026-06-13 12:29 UTC)
 - Dana Osei (2026-06-13 13:08 UTC)
 - Carlos Diaz (2026-06-13 13:54 UTC)
+- Luca Rossi (2026-06-13 14:47 UTC)
