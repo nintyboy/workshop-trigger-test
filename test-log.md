@@ -4039,3 +4039,4 @@ Add your name and a note below to trigger the workflow.
 - Henry Park (2026-08-22 12:00 UTC)
 - Eve Müller (2026-08-22 12:13 UTC)
 - Dana Osei (2026-08-22 12:31 UTC)
+- Luca Rossi (2026-08-22 12:55 UTC)
