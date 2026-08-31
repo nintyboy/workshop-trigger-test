@@ -4696,3 +4696,4 @@ Add your name and a note below to trigger the workflow.
 - Carlos Diaz (2026-08-31 17:27 UTC)
 - Eve Müller (2026-08-31 17:38 UTC)
 - James Kofi (2026-08-31 17:48 UTC)
+- Luca Rossi (2026-08-31 17:57 UTC)
