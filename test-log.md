@@ -7145,3 +7145,4 @@ Add your name and a note below to trigger the workflow.
 - Eve Müller (2026-09-25 11:52 UTC)
 - Isla Ahmed (2026-09-25 12:11 UTC)
 - Dana Osei (2026-09-25 12:39 UTC)
+- Luca Rossi (2026-09-25 12:56 UTC)
