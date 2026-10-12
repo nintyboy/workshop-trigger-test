@@ -8000,3 +8000,4 @@ Add your name and a note below to trigger the workflow.
 - Eve Müller (2026-10-12 14:52 UTC)
 - Carlos Diaz (2026-10-12 15:07 UTC)
 - Alice Chen (2026-10-12 15:28 UTC)
+- Luca Rossi (2026-10-12 15:47 UTC)
