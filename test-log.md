@@ -8251,3 +8251,4 @@ Add your name and a note below to trigger the workflow.
 - Eve Müller (2026-10-15 16:49 UTC)
 - Dana Osei (2026-10-15 16:59 UTC)
 - Dana Osei (2026-10-15 17:17 UTC)
+- Luca Rossi (2026-10-15 17:31 UTC)
